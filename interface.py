@@ -28,7 +28,7 @@ def run_calculadora():
             elif user_input == '/':
                 print(dividir(x, y))
             elif user_input == '^':
-                print(potencia(x, y))'''
+                print(potencia(x, y))
 
         else:
             print("Entrada inválida")
