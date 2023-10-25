@@ -1,4 +1,4 @@
-from operacoes import adicionar, subtrair #, multiplicar, dividir, potencia
+from operacoes import adicionar, subtrair , multiplicar, dividir, potencia
 
 def run_calculadora():
     while True:
@@ -27,7 +27,7 @@ def run_calculadora():
                 print(multiplicar(x, y))
             elif user_input == '/':
                 print(dividir(x, y))
-            '''elif user_input == '^':
+            elif user_input == '^':
                 print(potencia(x, y))'''
 
         else:

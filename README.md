@@ -1,2 +1,2 @@
 # Calculadora
-Criando um mini projeto em python para testar branchs e merge - alterado
+Projeto Calculadora em python para teste 
