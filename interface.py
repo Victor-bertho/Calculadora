@@ -25,9 +25,9 @@ def run_calculadora():
                 print(subtrair(x, y))
             elif user_input == '*':
                 print(multiplicar(x, y))
-            '''elif user_input == '/':
+            elif user_input == '/':
                 print(dividir(x, y))
-            elif user_input == '^':
+            '''elif user_input == '^':
                 print(potencia(x, y))'''
 
         else:
